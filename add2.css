@@ -1,0 +1,21 @@
+body{
+    background-color: indigo;
+}
+text{
+    color:forestgreen;
+    
+}
+button{
+    color:lawngreen;
+    border-width: 5px;
+    border-color: darkseagreen;
+    background-color:coral;
+}
+div{
+    color: bisque;
+}
+form{
+    color:beige;
+    
+    
+}
